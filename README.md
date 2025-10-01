@@ -50,6 +50,6 @@ I specialize in **React, Next.js, TypeScript, and TailwindCSS**, building scalab
 ## 📫 Contact
 - 📧 Email: **naserothman199999@gmail.com**  
 - 🌍 Portfolio: [Your Website (optional)](#)  
-- 💼 LinkedIn: [LinkedIn Profile](https://tinyurl.com/mp4xb789)  
+- 💼 LinkedIn: [LinkedIn Profile]([https://tinyurl.com/mp4xb789](https://tinyurl.com/osamaothman))  
 
 ![Profile views](https://komarev.com/ghpvc/?username=narokamyraid199999&color=blue)
